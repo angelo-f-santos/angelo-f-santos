@@ -1,7 +1,7 @@
 ### Hi there 👋
-My name is Angelo Santos
-I’m currently learning about Machine Learning and AI
-I have some studies in Front-end
+### My name is Angelo Santos
+### I’m currently learning about Machine Learning and AI
+### I have some studies in Front-end
 <!--
 **angelo-f-santos/angelo-f-santos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
